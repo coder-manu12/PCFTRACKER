@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(MainActivity.this, afterlogin.class);
             startActivity(intent);
             // then i need to bring all information related  to that user ;
+            // for git
 
         }
         else{
